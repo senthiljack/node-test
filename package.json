@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,14 +17,10 @@
     "url": "https://github.com/senthiljack/node-test/issues"
   },
   "devDependencies": {
-  "webpack": "^4.44.1",
+    "webpack": "^4.44.1",
     "webpack-assets-manifest": "^3.1.1",
     "webpack-cli": "^3.3.12",
     "webpack-inject-plugin": "^1.5.3"
-  
   },
-
- 
-
   "homepage": "https://github.com/senthiljack/node-test#readme"
 }
